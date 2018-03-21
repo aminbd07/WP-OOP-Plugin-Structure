@@ -1,0 +1,1 @@
+=== Minimum OOP WP plugin strucure ===
